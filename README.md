@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
- <a href="#-csharp---atribuic%C3%A7%C3%B5es-de-vari%C3%A1veis">Atribuicções de Variáveis</a> | 
+ <a href="#-csharp---atribui%C3%A7%C3%B5es-de-vari%C3%A1veis">Atribuições de Variáveis</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
@@ -19,7 +19,7 @@ Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar algu
 
 <br>
 
-## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Atribuicções de Variáveis
+## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Atribuições de Variáveis
 
 📚 Aproveite o código desse exercício
 
