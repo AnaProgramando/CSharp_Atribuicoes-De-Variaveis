@@ -10,7 +10,7 @@ namespace Exercicio_AtribuicoesDeVariaveis
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando o projeto 6: \r\n");
+            Console.WriteLine("Executando o projeto - Atribuicções de Variáveis: \r\n");
 
             int idade = 23;
             int idadeAna = idade;
